@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-NHWai-orange)](https://twitter.com/Archerootw)
 
 
-Junior web developer pursuing JavaScript and React Framework with a great interest in MERN Stack and also looking for open source projects to contribute at the moment.
+Junior web developer pursuing JavaScript and React Framework with a great interest in MERN Stack.
 
 ## **MyTechStack**
 
