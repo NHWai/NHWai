@@ -5,6 +5,8 @@
 
 Junior web developer pursuing JavaScript and React Framework with a great interest in MERN Stack. 
 
+- 📫 You can reach me via [nayhtetwinee@gmail.com](mailto:nayhtetwinee@gmail.com)
+
 ## **MyTechStack**
 
 <!-- ![React](https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg) -->
