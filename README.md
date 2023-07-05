@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-NHWai-orange)](https://twitter.com/Archerootw)
 
 
-Junior web developer pursuing JavaScript and React Framework with a great interest in MERN Stack. 
+Junior web developer pursuing JavaScript and React Library with a great interest in MERN Stack. 
 
 - 📫 You can reach me via [nayhtetwinee@gmail.com](mailto:nayhtetwinee@gmail.com)
 
